@@ -34,7 +34,7 @@ git clone https://github.com/AkshayPagar/IllumioAssessment.git
 cd IllumioAssessment/src
 ls -la resources 
 ```
-### 3. Go to project directory, compile and run the code.
+### 3. Compile and run the code.
 ```
 javac -cp . logProcessor/*.java
 java logProcessor.LogProcessor
