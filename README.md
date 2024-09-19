@@ -30,12 +30,13 @@ git clone https://github.com/AkshayPagar/IllumioAssessment.git
 1. Flow Log txt
 2. Lookup table csv
 3. Protocol numbers csv
-``` 
+```
+cd IllumioAssessment
 ls src/resources 
 ```
 ### 3. Go to project directory, compile and run the code.
-``` 
-cd IllumioAssessment/src
+```
+cd src
 javac -cp . logProcessor/*.java
 java logProcessor.LogProcessor
 ```
