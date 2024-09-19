@@ -44,4 +44,17 @@ java logProcessor.LogProcessor
 The output file with tagCount and portProtocolCount is created in the Outputs directory. Verify the data. 
 
 
+<<<<<<< Updated upstream
 Thank you for the opportunity for the assessment. I enjoyed working on the assignment. 
+=======
+## Testing 
+
+I was able to test code with unit testing of separate modules by running single functionality of the workflow. 
+1. Protocol-mapping loading and Fetching protocol number as per protocol. 
+2. Lookup table loading and fetching tags based on dstport and protocol. 
+3. Flow log data loading and verifying tagCount map and portProtocolCount map. 
+
+I tested the code by changing input data and adding more data, verified the updated data is reflected in the output file. 
+
+Thank you for the opportunity for the assessment. I enjoyed working on the assignment. 
+>>>>>>> Stashed changes
